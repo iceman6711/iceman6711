@@ -20,8 +20,6 @@
     <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iceman6711&layout=compact&langs_count=7&theme=radical"/>
     </a>
   
-  ##
-  
   <h2>My social networks</h2>
  <div>
    <a href="https://www.linkedin.com/in/thiago-serrano-affon%C3%A7o-771084108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
