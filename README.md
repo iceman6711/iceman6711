@@ -3,7 +3,6 @@
 <hr>
 
   <h1>Hi 👋 , I'm Thiago Serrano</h1>
-  <h4>But I'm known by Daniel Filipe</h4>
   <p>A little about me, I'm a Full-stack Developer, I'm from Brazil, São Paulo province and I work with
     website development.</p>
   
