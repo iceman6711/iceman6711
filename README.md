@@ -7,7 +7,7 @@
 - 😄 Pronouns: Lord Sith
 
 <div>
-  <a href="https://github.com/Diog0-0">
+  <a href="https://github.com/iceman6711">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diog0-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diog0-0&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -28,8 +28,8 @@
   ##
   
  <div>
-   <a href="https://www.linkedin.com/in/diogo-nogueira-6365a8186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://discordapp.com/users/859917433875070976" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/thiago-serrano-affon%C3%A7o-771084108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
    
-![Snake animation](https://github.com/Diog0-0/Diog0-0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/iceman6711/iceman6711/blob/output/github-contribution-grid-snake.svg)
  </div>
